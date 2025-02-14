@@ -7,7 +7,7 @@
 This Sales Insights Analysis dives into over 500,000 sales records to uncover actionable business insights. Using Power BI, this project identifies key revenue drivers, market profitability trends, and customer contributions. The insights help businesses optimize pricing strategies, enhance sales performance, and improve profit margins through data-driven decision-making.
 
 
-LIVE DASHBOARD: ![HERE]https://app.powerbi.com/links/zXdY6VsCrx?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
+LIVE DASHBOARD : [HERE]https://app.powerbi.com/links/zXdY6VsCrx?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
 
 
 🔍 Key Business Insights
